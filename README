@@ -1,0 +1,26 @@
+Please only read the following files : 
+
+
+in root: index.html 
+
+in public/partials: projectList.html projectDetail.html 
+
+in public/js: app.js controllers.js services.js
+
+
+all other files are dependencies.
+
+
+2 ways to run it:
+
+1.
+cd (the project's local path )
+
+
+NPM start
+
+2.
+
+Run an http server (run public/mongoose-free-5.3****.exe) first
+
+then double click : index.html
